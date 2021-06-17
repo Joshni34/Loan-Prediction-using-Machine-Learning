@@ -1,1 +1,11 @@
 # Loan-Prediction-using-Machine-Learning
+
+
+
+
+
+
+
+Adding the Play Button
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+(https://share.streamlit.io/joshni34/loan-prediction-using-machine-learning/main/app.py)
